@@ -9,6 +9,8 @@ A single-page site in plain HTML, CSS and JavaScript (no build step), hosted on 
 - A filterable archive of my other projects
 - Scroll-reveal animations that turn off when you've asked your system to reduce motion
 
+Every project on the site links to its live demo and, where the code is public, its repository.
+
 ## Adding a project
 
 1. Add a 1280×800 screenshot to `assets/projects/<name>.jpg`.
